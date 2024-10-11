@@ -110,5 +110,6 @@ body {
 
     > p {
         font-weight: var(--fw-bold);
+        font-size: 0.875rem;
     }
 }
