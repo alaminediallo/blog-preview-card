@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Figtree';
+    src: url('../assets/fonts/Figtree-VariableFont_wght.ttf');
+    font-weight: 500 800;
+    font-display: swap;
+}
+
+:root {
+    --primary: hsl(47, 88%, 63%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 50%);
+    --dark: hsl(0, 0%, 7%);
+
+    --fw-regular: 500;
+    --fw-bold: 800;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Figtree', system-ui, sans-serif;
+}
+
+h1 {
+    text-wrap: balance;
+}
+
+p {
+    text-wrap: pretty;
+}
