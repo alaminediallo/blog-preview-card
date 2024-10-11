@@ -69,13 +69,20 @@ body {
         border-radius: 4px;
     }
 
-    h1 {
+    a {
+        color: var(--dark);
         font-size: clamp(1.25rem, 1.162rem + 0.376vw, 1.5rem);
         font-weight: var(--fw-bold);
+        text-decoration: none;
         transition: color 200ms ease-out;
 
         &:hover {
             cursor: pointer;
+            color: var(--primary);
+        }
+
+        &:focus-visible {
+            outline: 1px solid var(--dark);
             color: var(--primary);
         }
     }
