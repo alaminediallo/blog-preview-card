@@ -43,6 +43,7 @@ body {
     border-radius: 20px;
     box-shadow: 8px 8px 0 rgb(0, 0, 0);
     border: 1px solid var(--dark);
+    line-height: 150%;
 
     display: flex;
     flex-direction: column;
