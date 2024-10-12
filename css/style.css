@@ -71,6 +71,7 @@ body {
         font-weight: var(--fw-bold);
         text-decoration: none;
         transition: color 200ms ease-out;
+        line-height: 150%;
 
         &:hover {
             cursor: pointer;
