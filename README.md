@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL : [Blog preview card](https://laminegithub.github.io/blog-preview-card/)
-- Solution URL : [Code Solution](https://github.com/LamineGitHub/blog-preview-card)
+- Live Site URL : [Blog preview card](https://alaminediallo.github.io/blog-preview-card/)
+- Solution URL : [Code Solution](https://github.com/alaminediallo/blog-preview-card)
 
 ## My process
 
